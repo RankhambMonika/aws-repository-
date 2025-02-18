@@ -1,2 +1,4 @@
 hi all of you we are learing git 
 today is first lecture
+this is 1.txt file
+
